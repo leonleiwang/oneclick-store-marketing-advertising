@@ -1,0 +1,8 @@
+interface:
+  display_name: "OneClick Store Marketing"
+  short_description: "Generate complete offline-ready marketing packs for physical stores."
+  brand_color: "#FF4D6D"
+  default_prompt: "Use $oneclick-store-marketing to create a full marketing pack for a local store from this brief: store type, product/service, audience, and campaign goal."
+
+policy:
+  allow_implicit_invocation: true
